@@ -1,0 +1,7 @@
+# NEW
+/public
+
+#Eclipse
+.project
+.buildpath
+/.settings
